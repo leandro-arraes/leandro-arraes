@@ -1,12 +1,12 @@
 <div align="center">
 
 # Leandro Arraes
-### Senior Full Stack Engineer & Tech Lead | Cloud & Distributed Systems
+### Desenvolvedor Full Stack | Arquitetura de Software & Cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroarraes/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandro.arraes.182@gmail.com)
 [![Location](https://img.shields.io/badge/Rio%20de%20Janeiro-Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white)](https://goo.gl/maps/riodejaneiro)
-[![Availability](https://img.shields.io/badge/Disponibilidade-CLT%20%7C%20PJ%20%7C%20Remoto%20(Open%20to%20Work)-0f172a?style=for-the-badge)](mailto:leandro.arraes.182@gmail.com)
+[![Availability](https://img.shields.io/badge/Disponibilidade-Remoto%20%7C%20Híbrido%20(CLT%20%7C%20PJ)-0f172a?style=for-the-badge)](mailto:leandro.arraes.182@gmail.com)
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ### 👨‍💻 Sobre Mim / Resumo Profissional
 
-Desenvolvedor **Full Stack Sênior e Arquiteto de Soluções** com sólida vivência no ciclo completo de engenharia corporativa, unindo a robustez de arquiteturas distribuídas e modulares de alta escala à agilidade do ecossistema **TypeScript / Node.js (NestJS)** e à construção de interfaces reativas de ponta com **Next.js, React e Vue.js / Nuxt**.
+Desenvolvedor **Full Stack e Arquiteto de Soluções** com sólida vivência no ciclo completo de engenharia corporativa, unindo a robustez de arquiteturas distribuídas e modulares de alta escala à agilidade do ecossistema **TypeScript / Node.js (NestJS)** e à construção de interfaces reativas de ponta com **Next.js, React e Vue.js / Nuxt**.
 
-- 🚀 **Liderança Técnica & Produtos em Escala:** Atuação como PO Técnico e Tech Lead de produtos de alta criticidade (*Tá no Docs*, *Diário de Obras*, *Meu Templo* e plataforma multi-SaaS), orquestrando microsserviços que processam **+500 mil requisições/mês com 99.9% de SLA**.
+- 🚀 **Engenharia de Software & Produtos em Escala:** Atuação em produtos de alta criticidade (*Tá no Docs*, *Diário de Obras*, *Meu Templo* e plataforma multi-SaaS), desenvolvendo microsserviços que processam **+500 mil requisições/mês com 99.9% de SLA**.
 - 💳 **Arquitetura SaaS & Faturamento:** Especialista em governança multi-tenancy, backoffices corporativos (Laravel/Filament) e integração completa de gateways financeiros (Asaas API v3, split de pagamentos e webhooks).
-- 🧪 **Engenharia de Qualidade (SQA):** Condução de cultura rigorosa de testes automatizados (Jest, Supertest, Playwright), padrões arquiteturais (Clean Architecture, SOLID, Design Patterns) e pipelines CI/CD com Docker.
+- 🧪 **Engenharia de Qualidade (SQA):** Aplicação de testes automatizados (Jest, Supertest, Playwright), padrões arquiteturais (Clean Architecture, SOLID, Design Patterns) e pipelines CI/CD com Docker.
 - 🎓 **Formação Acadêmica de Alto Desempenho:** Aprovado no concorrido processo seletivo para o **Mestrado em Sistemas de Computação no IME (Instituto Militar de Engenharia)** e graduado em Análise e Desenvolvimento de Sistemas pelo **SENAC RJ**.
 
 ---
@@ -83,20 +83,6 @@ Desenvolvedor **Full Stack Sênior e Arquiteto de Soluções** com sólida vivê
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandro-arraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-arraes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="165" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandro-arraes&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</div>
 
 ---
 
