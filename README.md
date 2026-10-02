@@ -3,7 +3,7 @@
 # Leandro Arraes
 ### Desenvolvedor Full Stack | Arquitetura de Software & Cloud
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroarraes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-arraes/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandro.arraes.182@gmail.com)
 [![Location](https://img.shields.io/badge/Rio%20de%20Janeiro-Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white)](https://goo.gl/maps/riodejaneiro)
 [![Availability](https://img.shields.io/badge/Disponibilidade-Remoto%20%7C%20Híbrido%20(CLT%20%7C%20PJ)-0f172a?style=for-the-badge)](mailto:leandro.arraes.182@gmail.com)
@@ -16,7 +16,7 @@
 
 Desenvolvedor **Full Stack e Arquiteto de Soluções** com sólida vivência no ciclo completo de engenharia corporativa, unindo a robustez de arquiteturas distribuídas e modulares de alta escala à agilidade do ecossistema **TypeScript / Node.js (NestJS)** e à construção de interfaces reativas de ponta com **Next.js, React e Vue.js / Nuxt**.
 
-- 🚀 **Engenharia de Software & Produtos em Escala:** Atuação em produtos de alta criticidade (*Tá no Docs*, *Diário de Obras*, *Meu Templo* e plataforma multi-SaaS), desenvolvendo microsserviços que processam **+500 mil requisições/mês com 99.9% de SLA**.
+- 🚀 **Engenharia de Software & Produtos em Escala:** Atuação em plataformas corporativas de alta criticidade (*Tá no Docs*, *Diário de Obras*, *Meu Templo* e ecossistema multi-SaaS), desenvolvendo microsserviços que processam **+500 mil requisições/mês com 99.9% de SLA**.
 - 💳 **Arquitetura SaaS & Faturamento:** Especialista em governança multi-tenancy, backoffices corporativos (Laravel/Filament) e integração completa de gateways financeiros (Asaas API v3, split de pagamentos e webhooks).
 - 🧪 **Engenharia de Qualidade (SQA):** Aplicação de testes automatizados (Jest, Supertest, Playwright), padrões arquiteturais (Clean Architecture, SOLID, Design Patterns) e pipelines CI/CD com Docker.
 - 🎓 **Formação Acadêmica de Alto Desempenho:** Aprovado no concorrido processo seletivo para o **Mestrado em Sistemas de Computação no IME (Instituto Militar de Engenharia)** e graduado em Análise e Desenvolvimento de Sistemas pelo **SENAC RJ**.
@@ -39,19 +39,32 @@ Desenvolvedor **Full Stack e Arquiteto de Soluções** com sólida vivência no 
 
 ---
 
-### 💼 Produtos & Engenharia em Destaque
+### 💼 Plataformas & Projetos Desenvolvidos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏢 Tá no Docs (SaaS Construtech)</h4>
-      <p>Plataforma corporativa de engenharia e gestão documental com mais de 500 mil requisições/mês e SLA de 99.9%.</p>
+      <h4>🏢 Tá no Docs</h4>
+      <p>🌐 <strong>Acesse:</strong> <a href="https://www.tanodocs.com.br" target="_blank"><strong>www.tanodocs.com.br</strong></a></p>
+      <p>Plataforma SaaS de engenharia e gestão documental corporativa com mais de 500 mil requisições/mês e SLA de 99.9%.</p>
       <ul>
-        <li>Microsserviços em <strong>NestJS</strong> e modelagem avançada em <strong>PostgreSQL</strong> (+80 tabelas).</li>
+        <li>Microsserviços em <strong>NestJS</strong> e modelagem em <strong>PostgreSQL</strong> (+80 tabelas).</li>
         <li>Interface reativa e intuitiva desenvolvida em <strong>Vue.js / Nuxt 3</strong>.</li>
         <li>Isolamento multi-tenancy, controle granular de permissões (RBAC) e alta performance.</li>
       </ul>
     </td>
+    <td width="50%" valign="top">
+      <h4>🏛️ Meu Templo</h4>
+      <p>🌐 <strong>Acesse:</strong> <a href="https://www.meutemplo.com" target="_blank"><strong>www.meutemplo.com</strong></a></p>
+      <p>Plataforma SaaS multi-tenant desenvolvida para gestão, engajamento e comunidades digitais com suporte a white-label.</p>
+      <ul>
+        <li>Frontend desenvolvido com <strong>Next.js (App Router)</strong>, <strong>React</strong> e <strong>Tailwind CSS</strong>.</li>
+        <li>Backend modular em <strong>NestJS</strong>, <strong>TypeScript</strong> e <strong>Prisma ORM</strong>.</li>
+        <li>Ambiente conteinerizado com <strong>Docker</strong> e deploy contínuo em VPS.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>💳 Plataforma Multi-SaaS & Faturamento</h4>
       <p>Ecossistema central de governança comercial para múltiplos produtos corporativos com gateway Asaas.</p>
@@ -61,20 +74,9 @@ Desenvolvedor **Full Stack e Arquiteto de Soluções** com sólida vivência no 
         <li>Matriz dinâmica de planos, combos e segregação de clientes B2B Enterprise.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏛️ Meu Templo (Plataforma SaaS Multi-Tenant)</h4>
-      <p>Arquitetura moderna para gestão e engajamento com suporte a white-label e internacionalização.</p>
-      <ul>
-        <li>Frontend desenvolvido com <strong>Next.js (App Router)</strong>, <strong>React</strong> e <strong>Tailwind CSS</strong>.</li>
-        <li>Backend modular em <strong>NestJS</strong>, <strong>TypeScript</strong> e <strong>Prisma ORM</strong>.</li>
-        <li>Pipelines automatizados de homologação e deploy contínuo em VPS com Docker.</li>
-      </ul>
-    </td>
     <td width="50%" valign="top">
       <h4>⚡ Arquitetura Modular & Microsserviços</h4>
-      <p>Padrões de projeto com alta coesão e baixo acoplamento para sistemas corporativos.</p>
+      <p>Padrões de engenharia com alta coesão e baixo acoplamento para ecossistemas distribuídos.</p>
       <ul>
         <li>Design Patterns, Clean Architecture e princípios <strong>SOLID</strong>.</li>
         <li>Modelagem relacional de alta performance com índices otimizados e integridade ACID.</li>
@@ -88,7 +90,7 @@ Desenvolvedor **Full Stack e Arquiteto de Soluções** com sólida vivência no 
 
 ### 📬 Contato & Conexões
 
-- 💼 **LinkedIn:** [linkedin.com/in/leandroarraes](https://www.linkedin.com/in/leandroarraes/)
+- 💼 **LinkedIn:** [linkedin.com/in/leandro-arraes](https://www.linkedin.com/in/leandro-arraes/)
 - ✉️ **E-mail:** [leandro.arraes.182@gmail.com](mailto:leandro.arraes.182@gmail.com)
 - 📍 **Localização:** Rio de Janeiro, RJ - Brasil (Disponível para posições Remoto / Híbrido • CLT / PJ)
 
